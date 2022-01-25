@@ -5,45 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d1e8e-c1ec-48f9-906e-7fdb3b0c1e37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter-2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-2/src/main/java/com/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-2/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-2/src/main/java/com/werun/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-2/src/main/java/com/werun/security/CustomAuthenticationProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-2/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-2/src/main/resources/certificate.p12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex6/src/main/java/com/werun/config/UserManagementConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex6/src/main/java/com/werun/config/WebAuthorizationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex1/src/main/java/com/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex1/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex1/src/main/java/com/werun/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex1/src/main/java/com/werun/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex1/src/main/java/com/werun/service/InMemoryUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex1/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex2/src/main/java/com/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex2/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex2/src/main/java/com/werun/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex2/src/main/java/com/werun/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex2/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex3/src/main/java/com/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex3/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex3/src/main/java/com/werun/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex3/src/main/java/com/werun/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch3-ex3/src/main/resources/server.ldif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch4-ex1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch4-ex1/src/main/java/com/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch4-ex1/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch4-ex1/src/main/java/com/werun/security/Sha512PasswordEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/security/CustomAuthenticationProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/security/CustomAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/config/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java" />
       <recent name="$PROJECT_DIR$/ssia-ch3-ex3/src/main/java/com/werun" />
       <recent name="$PROJECT_DIR$/ssia-ch3-ex2/src/main/java/com/werun" />
       <recent name="$PROJECT_DIR$/chapter-2/src/main/resources" />
@@ -103,7 +75,7 @@
       <recent name="$PROJECT_DIR$/chapter-2/src/main/java/com/werun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application (3)">
+  <component name="RunManager" selected="Application.Application (5)">
     <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.werun.Application" />
       <module name="ssia-ch3-ex1" />
@@ -146,13 +118,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Application (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.werun.Application" />
-      <module name="chapter-2" />
+      <module name="ssia-ch5-ex1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.werun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="werun.Application" />
+      <module name="ssia-ch5-ex2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="werun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,10 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application (5)" />
+        <item itemvalue="Application.Application (4)" />
         <item itemvalue="Application.Application (3)" />
         <item itemvalue="Application.Application (2)" />
         <item itemvalue="Application.Application (1)" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>

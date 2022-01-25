@@ -11,11 +11,12 @@
         <module>ssia-ch3-ex3</module>
         <module>ssia-ch4-ex1</module>
         <module>ssia-ch5-ex1</module>
+        <module>ssia-ch5-ex2</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.2</version>
+		<version>2.3.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.werun</groupId>
