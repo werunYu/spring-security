@@ -12,6 +12,7 @@
         <module>ssia-ch4-ex1</module>
         <module>ssia-ch5-ex1</module>
         <module>ssia-ch5-ex2</module>
+        <module>ssia-ch2-ex3</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

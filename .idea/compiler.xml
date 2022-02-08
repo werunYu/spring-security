@@ -10,6 +10,7 @@
         <module name="ssia-ch5-ex2" />
         <module name="ssia-ch5-ex1" />
         <module name="ssia-ch4-ex1" />
+        <module name="ssia-ch2-ex3" />
         <module name="ssia-ch3-ex2" />
         <module name="ssia-ch3-ex1" />
         <module name="chapter-2" />
@@ -25,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="chapter-2" options="-parameters" />
       <module name="spring-security" options="-parameters" />
+      <module name="ssia-ch2-ex3" options="-parameters" />
       <module name="ssia-ch2-ex6" options="-parameters" />
       <module name="ssia-ch2-ex7" options="-parameters" />
       <module name="ssia-ch3-ex1" options="-parameters" />

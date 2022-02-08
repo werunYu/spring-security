@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d1e8e-c1ec-48f9-906e-7fdb3b0c1e37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java/werun/security/CustomAuthenticationProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex3/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex6/src/main/java/com/werun/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/resources/transfer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/config/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ssia-ch5-ex1/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -38,6 +34,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -58,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../company/JinFangyuan/jfy-admin" />
@@ -75,21 +75,12 @@
       <recent name="$PROJECT_DIR$/chapter-2/src/main/java/com/werun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application (5)">
-    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.werun.Application" />
-      <module name="ssia-ch3-ex1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.werun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.werun.Application" />
       <module name="ssia-ch3-ex2" />
@@ -146,6 +137,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.werun.Application" />
+      <module name="ssia-ch2-ex3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.werun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -170,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.Application (5)" />
         <item itemvalue="Application.Application (4)" />
         <item itemvalue="Application.Application (3)" />
         <item itemvalue="Application.Application (2)" />
-        <item itemvalue="Application.Application (1)" />
       </list>
     </recent_temporary>
   </component>
