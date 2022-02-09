@@ -13,6 +13,8 @@
         <module>ssia-ch5-ex1</module>
         <module>ssia-ch5-ex2</module>
         <module>ssia-ch2-ex3</module>
+        <module>ssia-ch2-ex5</module>
+        <module>gs-securing-web</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -47,6 +49,11 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-test</artifactId>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
 

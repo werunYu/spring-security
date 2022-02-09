@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d1e8e-c1ec-48f9-906e-7fdb3b0c1e37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex3/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex6/src/main/java/com/werun/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssia-ch5-ex2/src/main/resources/transfer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/src/main/java/com/werun/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/src/main/java/com/werun/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/src/main/java/com/werun/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gs-securing-web/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex5/src/main/java/com/werun/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex5/src/main/java/com/werun/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex5/src/main/java/com/werun/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex5/src/main/java/com/werun/security/CustomAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex5/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssia-ch2-ex6/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,19 +71,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../company/JinFangyuan/jfy-admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ssia-ch5-ex2/src/main/java" />
-      <recent name="$PROJECT_DIR$/ssia-ch3-ex3/src/main/java/com/werun" />
-      <recent name="$PROJECT_DIR$/ssia-ch3-ex2/src/main/java/com/werun" />
-      <recent name="$PROJECT_DIR$/chapter-2/src/main/resources" />
+      <recent name="$PROJECT_DIR$/ssia-ch2-ex6/src/main/resources" />
+      <recent name="$PROJECT_DIR$/ssia-ch2-ex5/src/main/java/com/werun/controller" />
+      <recent name="$PROJECT_DIR$/ssia-ch2-ex5/src/main/java/com/werun/config" />
+      <recent name="$PROJECT_DIR$/ssia-ch2-ex5/src/main/java/com/werun/security" />
+      <recent name="$PROJECT_DIR$/ssia-ch2-ex5/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/chapter-2/src/main/resources" />
       <recent name="$PROJECT_DIR$/chapter-2/src/main/java/com/werun" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.werun.controller" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -80,10 +95,10 @@
       <command value="mvn clean package" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
-    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Application (2)">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.werun.Application" />
-      <module name="ssia-ch3-ex2" />
+      <module name="ssia-ch2-ex5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -95,9 +110,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.werun.Application" />
-      <module name="ssia-ch3-ex3" />
+      <module name="gs-securing-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -175,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application (2)" />
+        <item itemvalue="Application.Application (1)" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.Application (5)" />
         <item itemvalue="Application.Application (4)" />
-        <item itemvalue="Application.Application (3)" />
-        <item itemvalue="Application.Application (2)" />
       </list>
     </recent_temporary>
   </component>
